@@ -22,5 +22,4 @@ These scripts are all expecting json data in a specific format.
 
 
 ###Live version:
-http://www.gannett-cdn.com/experiments/usatoday/2014/11/arrests-interactive/
-
+http://www.gannett-cdn.com/experiments/usatoday/2014/10/ebola-questions/
