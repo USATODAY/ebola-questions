@@ -31,11 +31,11 @@ __p += '\n  <div class="card card-detail">\n    <div class="close-card"></div>\n
       ;
 __p += '\n    \n      <a href="' +
 ((__t = ( tweetUrl )) == null ? '' : __t) +
-'" class=\'social-link\' id=\'twitter-share\'> <img src=\'img/twitter.svg\' alt="twitter" class="social-icon"></a>\n      <a href="' +
+'" class=\'social-link\' id=\'twitter-share\'> <img src=\'http://www.gannett-cdn.com/experiments/usatoday/2014/10/ebola-questions/img/twitter.svg\' alt="twitter" class="social-icon"></a>\n      <a href="' +
 ((__t = ( fb2 )) == null ? '' : __t) +
-'"><img src=\'img/fb.svg\' alt="twitter" class="social-icon"></a>\n      <a href="' +
+'"><img src=\'http://www.gannett-cdn.com/experiments/usatoday/2014/10/ebola-questions/img/fb.svg\' alt="twitter" class="social-icon"></a>\n      <a href="' +
 ((__t = ( emailURL )) == null ? '' : __t) +
-'" target="sharer" class="social-link" id="email-share"><img src="img/email.svg" alt="email" class="social-icon">\n        </a>\n    </div>\n  </div>';
+'" target="sharer" class="social-link" id="email-share"><img src="http://www.gannett-cdn.com/experiments/usatoday/2014/10/ebola-questions/img/email.svg" alt="email" class="social-icon">\n        </a>\n    </div>\n  </div>';
 
 }
 return __p
